@@ -32,11 +32,11 @@ This project analyzes the relationship between Hyperliquid trader performance an
 From this folder, run:
 
 ```bash
-pip install -r requirements/requirements.txt
+pip install -r requirements.txt
 streamlit run app.py
 ```
 
 ## Notes
 
 - No dependencies were installed by this project setup step.
-- All required packages are listed in `requirements/requirements.txt` for you to install.
+- All required packages are listed in `requirements.txt` for you to install.
